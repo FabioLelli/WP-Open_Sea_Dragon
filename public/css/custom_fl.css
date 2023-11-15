@@ -1,0 +1,9 @@
+#dragon_map_fl a.fl_segnalibri:link, a.fl_segnalibri:visited, a.fl_segnalibri:hover {
+    font-family: Verdana, sans-serif;
+    color: #5e6b84;
+    text-decoration: none;
+    background-color: #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #000;
+}
