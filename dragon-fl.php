@@ -4,7 +4,7 @@
  * Plugin Name: Open Sea Dragon for Wordpress
  * Description: Permette di inserire tramite shortcode immagini in formato DZI navigabili e ingrandibili con Open Sea Dragon. SI possono inserire punti di interesse con collegamenti a pagine interne del sito
  * Author: Fabio Lelli
- * Plugin URI: https://github.com/FabioLellli/WP-Open_Sea_Dragon
+ * Plugin URI: https://github.com/FabioLelli/WP-Open_Sea_Dragon
  * Author URI: https://archiviodistatoravenna.cultura.gov.it/
  * Version: 1.0.0
  * License: GPL v3
